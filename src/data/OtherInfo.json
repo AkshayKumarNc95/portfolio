@@ -1,0 +1,139 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Akshay Kumar. I'm a Full-Stack developer with 4+ years of experience in designing and developing highly scalable and secure Web and Windows applications using a range of technologies and programming languages.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "The Music Streaming App",
+        "startDate": "2020",
+        "description": "A simple dark themed appplication to stream music. you can create playlists, add songs into playlists, search or browse for artists or albums.",
+        "images": [
+          "images/portfolio/music-streamer/Artist.png", 
+          "images/portfolio/music-streamer/HomePage.png",
+          "images/portfolio/music-streamer/Music-streamer.png",
+          "images/portfolio/music-streamer/Album.png"
+        ],
+        "url": "https://github.com/AkshayKumarNc95/The-Music-Streaming-App",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Code Realtime",
+        "startDate": "2020",
+        "description": "A Realtime coding and live streaming App. Supports upto 4 peers with minimal authentication, streams Video and video, uses socket io to stream the code",
+        "images": [
+          "images/portfolio/realtime-code/Stream_2.png",
+          "images/portfolio/realtime-code/Stream_3.png", 
+          "images/portfolio/realtime-code/StreamCodeUser2.png",
+          "images/portfolio/realtime-code/SignUp.png"
+        ],
+        "url": "https://github.com/AkshayKumarNc95/Code-Real-Time",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node js"
+          }
+        ]
+      },
+      {
+        "title": "Simple online food ordering frontend",
+        "startDate": "2020",
+        "description": "One of the first apps I took to test the pace of my react development, and also to find the knowledge gap. This project was worth it as I was able to gain confidence at the same time able to find the gaps!",
+        "images": [
+          "images/portfolio/food-ordering/Capture1.png",
+          "images/portfolio/food-ordering/Capture2.png"
+        ],
+        "url": "https://github.com/AkshayKumarNc95/Simple-Resto-App",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Spak Technologies",
+        "title": "Full Stack Developer",
+        "years": "10.2020 - Present",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          "React Js",
+          "Node JS",
+          "Javascript",
+          "Mongo DB",
+          "MY SQL",
+          "Redis",
+          "Web sockets",
+          "Nginx",
+          "Docker",
+          "Microservices"
+        ]
+      },
+      {
+        "company": "Sunquest information systems",
+        "title": "Software Engineer",
+        "years": "01.2018 - 09.2020",
+        "mainTech": [
+          "C-Sharp"
+        ],
+        "technologies": [
+          "Javascript",
+          "React Js",
+          "Node JS",
+          "C-Sharp",
+          "MVC",
+          "Win Forms",
+          "Win Services",
+          "MS SQL",
+          "Mongo DB",
+          "IPC",
+          ".NET Core"
+        ]
+      },
+      {
+        "company": "Sunquest Informatation Systems",
+        "title": "Intern",
+        "years": "10.2017 - 01.2018",
+        "mainTech": [
+          "C-sharp"
+        ],
+        "technologies": [
+          "C-sharp",
+          "Winforms",
+          "SQL",
+          "Delphi"
+        ]
+      }
+    ]
+  }
