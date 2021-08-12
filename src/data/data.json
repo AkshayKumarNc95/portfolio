@@ -12,6 +12,11 @@
           "name": "linkedIn",
           "url": "https://www.linkedin.com/in/akshaykumarnc/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "mail",
+          "url": "mailto: ak37.edu@gmail.com",
+          "class": "far fa-paper-plane"
         }
       ],
       "image": "Akshay-retro.jpg"
