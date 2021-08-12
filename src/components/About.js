@@ -5,6 +5,7 @@ import reactIcon from "@iconify/icons-logos/react";
 import jsIcon from "@iconify/icons-logos/mongodb";
 import sqlIcon from "@iconify/icons-logos/mysql";
 
+
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
