@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Akshay Kumar. I'm a Full-Stack developer with 4+ years of experience in designing and developing highly scalable and secure Web and Windows applications using a range of technologies and programming languages.",
+      "description_header": "Hello",
+      "description": "👋 I'm Akshay Kumar. I'm a Full-Stack developer with 4+ years of experience in designing and developing highly scalable and secure Web and Windows applications using a range of technologies and programming languages. I have a huge passion in innovating, designing and programming applications, be it windows or web or a mobile application i'm up for it! I have done work in designing systems, front-end/back-end Web application development, Windows application development, database management and more. ",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
+        "about": "About",
+        "projects": "Personal Projects",
+        "skills": "Top Skills",
         "experience": "Experience"
       }
     },

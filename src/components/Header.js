@@ -23,7 +23,7 @@ class Header extends Component {
 
   render() {
     if (this.props.basicInfo) {
-      var name = this.props.basicInfo.name;
+      var titleWithName = this.props.basicInfo.name;
       this.titles = this.props.basicInfo.titles.map(x => [ x.toUpperCase(), 1500 ] ).flat();
     }
 
@@ -38,12 +38,12 @@ class Header extends Component {
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false">
               </span> 
-
               <br/>
               <h1 className="mb-0">
-                <Typical steps={[name]} wrapper="p" />
+                <Typical steps={[titleWithName]} wrapper="p" />
               </h1>
               <div className="title-container">
+                I'm a 
                 <HeaderTitleTypeAnimation />
               </div>
               <Switch
