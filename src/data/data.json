@@ -17,7 +17,13 @@
           "name": "mail",
           "url": "mailto: ak37.edu@gmail.com",
           "class": "far fa-paper-plane"
+        },
+        {
+          "name": "Resume",
+          "url": "/Resume.pdf",
+          "class": "far fa-file-pdf"
         }
+
       ],
       "image": "Akshay-retro.jpg"
     },
